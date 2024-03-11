@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ulk
+<img width="1512" alt="image" src="https://github.com/Ulk-G/Ulk-G/assets/23142956/8e70fc0c-a0b1-4ecc-8d49-fce03df81b32"># Hi there! 👋 I'm Ulk
 
 ## Languages and Tools
 
@@ -40,6 +40,5 @@ I'm a versatile developer skilled in Python, Java, Svelte, JavaScript, Node.js, 
 ## GitHub Stats
 ![Ulk's github stats](https://github-readme-stats-mocha-chi-44.vercel.app/api?username=Ulk-G&show_icons=true&theme=radical)
 
-## Weekly Stats
-
-[![Ulk's wakatime stats](https://github-readme-stats-mocha-chi-44.vercel.app/api/wakatime?username=Ulk-G&layout=compact&theme=radical)](https://github.com/Ulk-G/github-readme-stats)
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulk-G&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
