@@ -38,7 +38,7 @@ I'm a versatile developer skilled in Python, Java, Svelte, JavaScript, Node.js, 
 
 ## GitHub Stats
 
-[![Ulk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulk-G&show_icons=true&theme=radical)](https://github.com/Ulk-G/github-readme-stats)
+[![Ulk's GitHub stats](https://github-stats-ulk.vercel.app/api?username=Ulk-G&show_icons=true&theme=radical)](https://github.com/Ulk-G/github-readme-stats)
 
 ## Weekly Stats
 
