@@ -37,8 +37,7 @@
 I'm a versatile developer skilled in Python, Java, Svelte, JavaScript, Node.js, Kotlin, Haskell, C, and C++. I enjoy working on both backend and frontend development, and I'm passionate about creating things. I like to build full-stack applications and explore various technologies.
 
 ## GitHub Stats
-
-[![Ulk's GitHub stats](https://github-stats-ulk.vercel.app/api?username=Ulk-G&show_icons=true&theme=radical)](https://github.com/Ulk-G/github-stats)
+![Ulk's github stats](https://github-readme-stats.vercel.app/api?username=Ulk-G&show_icons=true&theme=radical)
 
 ## Weekly Stats
 
