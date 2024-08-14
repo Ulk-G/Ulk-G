@@ -1,41 +1,8 @@
-# Hi there! 👋 I'm Ulk
-
-## Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-</p>
+# Hey I'm Ulk
 
 ## About Me
 
-I'm a versatile developer skilled in Python, Java, Svelte, JavaScript, Node.js, Kotlin, Haskell, C, and C++. I enjoy working on both backend and frontend development, and I'm passionate about creating things. I like to build full-stack applications and explore various technologies.
-
+I'm a developer who's interested in AI, webapps, and robotics. I enjoy working on both backend and frontend development, and I love making things. Involved in various startups + fun projects and head of operations at a top student startup incubator.
 
 ## GitHub Stats
 ![Ulk's github stats](https://github-readme-stats-mocha-chi-44.vercel.app/api?username=Ulk-G&show_icons=true&theme=radical)
